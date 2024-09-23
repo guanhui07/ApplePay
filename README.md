@@ -1,10 +1,10 @@
 安装
 composer
 ```php
-$ php composer.phar require yzh52521/apple
+$ php composer.phar require guanhui07/apple
 或者添加以下代码到composer.json文件的require块中：
 
-"yzh52521/apple": "1.0"
+"guanhui07/apple": "1.0"
 
 ```
 
