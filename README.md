@@ -1,11 +1,14 @@
 安装
 composer
-```
+```php
 $ php composer.phar require yzh52521/apple
 或者添加以下代码到composer.json文件的require块中：
 
 "yzh52521/apple": "1.0"
+
 ```
+
+```php
 //  $orderId 本地订单号
     // $storeProductId 苹果商店产品ID
     // $tradeNo 苹果交易号
